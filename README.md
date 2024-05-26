@@ -45,6 +45,15 @@ The Rental Application is built using Python,Django a high-level Python web fram
 * The user can log out using the logout option in the dropdown menu at the extreme top right corner just beside the username.
 # Templates
 ![reg_page](https://github.com/AshisBiswal/Rental-Application/assets/113982683/511fe9f4-a936-4cae-adb3-5d0d612ba7f9)
+![login_page](https://github.com/AshisBiswal/Rental-Application/assets/113982683/fedf1ed3-c8b7-47dd-8736-0deba6e1e911)
+![main_page](https://github.com/AshisBiswal/Rental-Application/assets/113982683/3e6a27ef-afab-44eb-8db1-88ff6521c8c6)
+![Post_property](https://github.com/AshisBiswal/Rental-Application/assets/113982683/7a93c549-314b-4023-9305-19e12c84d24c)
+![posted_prop](https://github.com/AshisBiswal/Rental-Application/assets/113982683/151f10e6-24f4-4650-8cb2-5ad9f13b325b)
+![update-prop](https://github.com/AshisBiswal/Rental-Application/assets/113982683/a7a25941-c8d5-4cbe-96d2-aff93d4be0a7)
+![manage_images](https://github.com/AshisBiswal/Rental-Application/assets/113982683/1ec2efb7-c54c-407a-a9ff-c428570a6a0e)
+![Interested_page](https://github.com/AshisBiswal/Rental-Application/assets/113982683/530f48d2-278a-4cc0-a18d-d5f63b2e1a09)
+
+
 
 
 
