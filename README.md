@@ -44,7 +44,7 @@ The Rental Application is built using Python,Django a high-level Python web fram
 * The user can like the proper and if interested can click on the interested button to see all the details related to the property along with seller details.
 * The user can log out using the logout option in the dropdown menu at the extreme top right corner just beside the username.
 # Templates
-
+![reg_page](https://github.com/AshisBiswal/Rental-Application/assets/113982683/511fe9f4-a936-4cae-adb3-5d0d612ba7f9)
 
 
 
