@@ -1,13 +1,13 @@
 {
     "builds": [{
-        "src": "rental%20application/sample/Scripts/rental/rental/wsgi.py",
+        "src": "rental/wsgi.py",
         "use": "@vercel/python",
         "config": { "maxLambdaSize": "15mb", "runtime": "python3.9" }
     }],
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "rental%20application/sample/Scripts/rental/rental/wsgi.py"
+            "dest": "rental/wsgi.py"
         }]
 
 }
